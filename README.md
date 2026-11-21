@@ -1,6 +1,7 @@
 I am 22 year Java Developer & Cybersecurity Analyst. My interests span across web development and mobile. Constantly try to expand my knowledge in this fields. I am open mind person with a willingness to learn and develop. Currently based in Ghana GH 
 
 # 💻 Tech Stack:
+![JAVA](https://img.shields.io/badge/JAVA?style=social)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
