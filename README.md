@@ -1,4 +1,4 @@
-I am 21 year full stack developer. My interests span across web development and mobile. Constantly try to expand my knowledge in this fields. I am open mind person with a willingness to learn and develop. Based in Ghana GH 
+I am 22 year Java Developer & Cybersecurity Analyst. My interests span across web development and mobile. Constantly try to expand my knowledge in this fields. I am open mind person with a willingness to learn and develop. Currently based in Ghana GH 
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -7,12 +7,8 @@ I am 21 year full stack developer. My interests span across web development and 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230469A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=EntityFramework&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=for-the-badge&logo=primeng&logoColor=white)
 
